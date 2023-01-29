@@ -9,9 +9,19 @@ All code from Genuary 2023 Speed2023un
 
 ## Code
 
-- January 1: [Perfect loop / Infinite loop / endless GIFs](https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA)
+### January 1
 
-- January 2: [Made in 10 minutes](https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA)
+![](GIFS/genuary01.gif)
+
+[Perfect loop / Infinite loop / endless GIFs](https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA)
+
+- January 2: 
+
+<img class="img" src="assets/genuary02.png" alt="Made in 10 minues" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="400">
+
+[Made in 10 minutes](https://editor.p5js.org/codingtrain/sketches/stwbwVLDz)
 
 - January 3: [Glitch Art](./genuary_03/)
 
