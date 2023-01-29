@@ -4,7 +4,7 @@ All code from Genuary 2023 Speed2023un
 
 ## Links
 
-- Live Stream on YouTube
+- [Live Stream on YouTube](https://www.youtube.com/watch?v=QyGG15J9bAc)
 - [Genuary](https://genuary.art)
 
 ## Code
