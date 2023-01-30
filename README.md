@@ -49,12 +49,26 @@ All code from Genuary 2023 Speed Run
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/w8yM-TPJ1"> <img class="img" src="assets/genuary10.jpg" alt="Generative Music" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 10: Generative Music</b></sub></a></td>
-     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="" alt="Suprematism" style=" display: block;
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="assets/genuary11.jpg" alt="Suprematism" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 11: Suprematism</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_12"> <img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 12: Tessellation</b></sub></a></td>
+    </tr>
+     <tr>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_13"> <img class="img" src="" alt="Something you’ve always wanted to learn" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 13: Something you’ve always wanted to learn</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl"> <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 14: Aesemic</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="GIFS/genuary15.gif" alt="Sine waves" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 15: Sine waves</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="GIFS/genuary16.gif" alt="Reflection of a reflection" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>Reflection of a reflection</b></sub></a></td>
     </tr>
      </tbody>
 </table>
@@ -67,58 +81,6 @@ All code from Genuary 2023 Speed Run
 
 
 
-
-### January 9: Plants
-
-<img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Plants](./genuary_09/)
-
-### January 10: Generative Music
-
-[Generative music](https://editor.p5js.org/codingtrain/sketches/w8yM-TPJ1)
-
-### January 11: Suprematism
-
-<img class="img" src="assets/genuary11.jpg" alt="Suprematism" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
-
-### January 12: Tessellation
-
-<img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Tessellation](./genuary_12/)
-
-### January 13: Something you’ve always wanted to learn
-
-[Something you’ve always wanted to learn]()
-
-### January 14: Aesemic
-
-<img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Aesemic](https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl)
-
-### January 15: Sine waves
-
-![](GIFS/genuary15.gif)
-
-[Sine waves](https://editor.p5js.org/codingtrain/sketches/LaYMQFPld)
-
-### January 16: Reflection of a reflection
-
-![](GIFS/genuary16.gif)
-
-[Reflection of a reflection](https://editor.p5js.org/codingtrain/sketches/1C1itEl_t)
 
 ### January 17: A grid inside a grid inside a grid
 
