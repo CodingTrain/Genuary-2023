@@ -74,7 +74,7 @@ All code from Genuary 2023 Speed Run
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_17"> <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 17: A grid inside a grid inside a grid</b></sub></a></td>
-      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt=" Definitely not a grid" style=" display: block;
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 18: Definitely not a grid</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_19"> <img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
@@ -83,6 +83,20 @@ All code from Genuary 2023 Speed Run
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P"> <img class="img" src="assets/genuary20.jpg" alt="Art Deco" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 20: Art Deco</b></sub></a></td>
+    </tr>
+     <tr>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/8VbPMDnOd"> <img class="img" src="assets/genuary21.jpg" alt="Persian Rug" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 21: Persian Rug</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/ch0QeTpCl"> <img class="img" src="assets/genuary22.png" alt="Shadows" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 22: Shadows</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4"> <img class="img" src="assets/genuary23.jpg" alt="More Moiré" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 23: More Moiré</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_24"> <img class="img" src="assets/genuary24.png" alt="Art Deco" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 24: Textile</b></sub></a></td>
     </tr>
      </tbody>
 </table>
@@ -93,36 +107,6 @@ All code from Genuary 2023 Speed Run
 <!-- IMAGE-LIST:END -->
 
 
-
-
-
-
-
-
-
-### January 21: Persian Rug
-
-<img class="img" src="assets/genuary21.jpg" alt="Persian Rug" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Persian Rug](https://editor.p5js.org/codingtrain/sketches/8VbPMDnOd)
-
-### January 22: Shadows
-
-<img class="img" src="assets/genuary22.jpg" alt="Shadows" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Shadows](https://editor.p5js.org/codingtrain/sketches/ch0QeTpCl)
-
-### January 23: More Moiré
-
-<img class="img" src="assets/genuary23.jpg" alt="More Moiré" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500">
-
-[More Moiré](https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4)
 
 ### January 24: Textile
 
