@@ -68,7 +68,21 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 15: Sine waves</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="GIFS/genuary16.gif" alt="Reflection of a reflection" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Reflection of a reflection</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 16: Reflection of a reflection</b></sub></a></td>
+    </tr>
+     <tr>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_17"> <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 17: A grid inside a grid inside a grid</b></sub></a></td>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt=" Definitely not a grid" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 18: Definitely not a grid</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_19"> <img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 19: Black and white</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P"> <img class="img" src="assets/genuary20.jpg" alt="Art Deco" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 20: Art Deco</b></sub></a></td>
     </tr>
      </tbody>
 </table>
@@ -82,21 +96,7 @@ All code from Genuary 2023 Speed Run
 
 
 
-### January 17: A grid inside a grid inside a grid
 
-<img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[A grid inside a grid inside a grid](./genuary_17/)
-
-### January 18: Definitely not a grid
-
-<img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Definitely not a grid](./genuary_18/)
 
 ### January 19: Black and white
 
