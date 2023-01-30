@@ -17,32 +17,46 @@ All code from Genuary 2023 Speed Run
     <tr>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="GIFS/genuary01.gif" alt="Perfect GIF look" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Perfect GIF Loop</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 1: Perfect GIF Loop</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/stwbwVLDz"> <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Made in Ten Minutes</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 2: Made in Ten Minutes</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_03"> <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Glitch Art</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 3: Glitch Art</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_04"> <img class="img" src="assets/genuary04.png" alt="Intersections" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Intersections</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 4: Intersections</b></sub></a></td>
     </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_05"> <img class="img" src="GIFS/genuary05.png" alt="Debug View" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Debug View</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 5: Debug View</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf"> <img class="img" src="assets/genuary06.jpg" alt="Steal Like an Artist" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Steal Like an Artist</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 6: Steal Like an Artist</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_07"> <img class="img" src="assets/genuary07.png" alt="Sample a color palette from your favorite movie/album cover" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Sample a color palette from your favorite movie/album cover</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 7: Sample a color palette</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_08"> <img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>Signed Distance Functions</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 8: Signed Distance Functions</b></sub></a></td>
     </tr>
-        </tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_09"> <img class="img" src="GIFS/genuary09.png" alt="Plants" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 9: Plants</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/w8yM-TPJ1"> <img class="img" src="assets/genuary10.jpg" alt="Generative Music" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 10: Generative Music</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="" alt="Suprematism" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 11: Suprematism</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_12"> <img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 12: Tessellation</b></sub></a></td>
+    </tr>
+     </tbody>
 </table>
 
 <!-- markdownlint-restore -->
@@ -53,34 +67,6 @@ All code from Genuary 2023 Speed Run
 
 
 
-
-### January 5: Debug View
-
-<img class="img" src="assets/genuary05.png" alt="Debug View" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Debug view](./genuary_05/)
-
-### January 6: Steal Like an Artist
-
-<img class="img" src="assets/genuary06.jpg" alt="Steal like a Artist" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Steal Like An Artist](https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf)
-
-### January 7: Sample a color palette from your favorite movie/album cover
-
-[Sample a color palette from your favorite movie/album cover](./genuary_07/)
-
-### January 8: Signed Distance Functions
-
-<img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Signed Distance Functions](./genuary_08/)
 
 ### January 9: Plants
 
