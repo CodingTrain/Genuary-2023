@@ -1,6 +1,6 @@
 # Genuary-2023
 
-All code from Genuary 2023 Speed2023un
+All code from Genuary 2023 Speed Run
 
 ## Links
 
@@ -25,13 +25,25 @@ All code from Genuary 2023 Speed2023un
 
 ### January 3: Glitch Art
 
+<img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="338">
+
 [Glitch Art](./genuary_03/)
 
 ### January 4: Intersections
 
+<img class="img" src="assets/genuary04.png" alt="Intersections" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="277">
+
 [Intersections](./genuary_04/)
 
 ### January 5: Debug View
+
+<img class="img" src="assets/genuary05.png" alt="Debug View" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="277">
 
 [Debug view](./genuary_05/)
 
@@ -39,7 +51,7 @@ All code from Genuary 2023 Speed2023un
 
 <img class="img" src="assets/genuary06.jpg" alt="Steal like a Artist" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="600" height="400">
+    margin-right: auto;" width="400" height="267">
 
 [Steal Like An Artist](https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf)
 
@@ -49,9 +61,17 @@ All code from Genuary 2023 Speed2023un
 
 ### January 8: Signed Distance Functions
 
+<img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="403">
+
 [Signed Distance Functions](./genuary_08/)
 
 ### January 9: Plants
+
+<img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="267">
 
 [Plants](./genuary_09/)
 
@@ -61,13 +81,17 @@ All code from Genuary 2023 Speed2023un
 
 ### January 11: Suprematism
 
-<img class="img" src="assets/genuary11.jpg" alt="Steal like a Artist" style=" display: block;
+<img class="img" src="assets/genuary11.jpg" alt="Suprematism" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
-     [Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
+[Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
 
 ### January 12: Tessellation
+
+<img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="600" height="301">
 
 [Tessellation](./genuary_12/)
 
@@ -77,7 +101,11 @@ All code from Genuary 2023 Speed2023un
 
 ### January 14: Aesemic
 
-[Aesemic]()
+<img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="400">
+
+[Aesemic](https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl)
 
 ### January 15: Sine waves
 
@@ -97,13 +125,25 @@ All code from Genuary 2023 Speed2023un
 
 ### January 17: A grid inside a grid inside a grid
 
+<img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="396">
+
 [A grid inside a grid inside a grid](./genuary_17/)
 
 ### January 18: Definitely not a grid
 
+<img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="396">
+
 [Definitely not a grid](./genuary_18/)
 
 ### January 19: Black and white
+
+<img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="396">
 
 [Black and white](./genuary_19/)
 
@@ -141,6 +181,10 @@ All code from Genuary 2023 Speed2023un
 
 ### January 24: Textile
 
+<img class="img" src="assets/genuary24.png" alt="Textile" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="396">
+
 [Textile](./genuary_24/)
 
 ### January 25: Yayoi Kusama
@@ -149,9 +193,13 @@ All code from Genuary 2023 Speed2023un
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
- [Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
+[Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
 
 ### January 26: My kid could have made that
+
+<img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="400">
 
 [My kid could have made that](https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV)
 
@@ -173,12 +221,24 @@ All code from Genuary 2023 Speed2023un
 
 ### January 29: Maximalism
 
+<img class="img" src="assets/genuary29.png" alt="Maximalism" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="500" height="312">
+
 [Maximalism](./genuary_29/)
 
 ### January 30: Minimalism
 
+<img class="img" src="assets/genuary30.png" alt="Minimalism" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="310">
+
 [Minimalism](./genuary_30/)
 
-### January 31: Deliberately break one of your previous images
+### January 31: Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.
 
- [Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
+<img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="310">
+
+[Deliberately break one of your previous images](./genuary_31/)
