@@ -19,7 +19,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Made in 10 minutes](https://editor.p5js.org/codingtrain/sketches/stwbwVLDz)
 
@@ -27,7 +27,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="338">
+    margin-right: auto;" width="500" >
 
 [Glitch Art](./genuary_03/)
 
@@ -35,7 +35,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary04.png" alt="Intersections" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="277">
+    margin-right: auto;" width="500" >
 
 [Intersections](./genuary_04/)
 
@@ -43,7 +43,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary05.png" alt="Debug View" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="277">
+    margin-right: auto;" width="500" >
 
 [Debug view](./genuary_05/)
 
@@ -51,7 +51,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary06.jpg" alt="Steal like a Artist" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="267">
+    margin-right: auto;" width="500" >
 
 [Steal Like An Artist](https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf)
 
@@ -63,7 +63,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="403">
+    margin-right: auto;" width="500" >
 
 [Signed Distance Functions](./genuary_08/)
 
@@ -71,7 +71,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="267">
+    margin-right: auto;" width="500" >
 
 [Plants](./genuary_09/)
 
@@ -83,7 +83,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary11.jpg" alt="Suprematism" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
 
@@ -91,7 +91,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="600" height="301">
+    margin-right: auto;" width="500" >
 
 [Tessellation](./genuary_12/)
 
@@ -103,7 +103,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Aesemic](https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl)
 
@@ -123,7 +123,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="396">
+    margin-right: auto;" width="500" >
 
 [A grid inside a grid inside a grid](./genuary_17/)
 
@@ -131,7 +131,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="396">
+    margin-right: auto;" width="500" >
 
 [Definitely not a grid](./genuary_18/)
 
@@ -139,7 +139,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="396">
+    margin-right: auto;" width="500">
 
 [Black and white](./genuary_19/)
 
@@ -147,7 +147,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary20.jpg" alt="Art Deco" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Art Deco](https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P)
 
@@ -155,7 +155,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary21.jpg" alt="Persian Rug" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Persian Rug](https://editor.p5js.org/codingtrain/sketches/8VbPMDnOd)
 
@@ -163,7 +163,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary22.jpg" alt="Shadows" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Shadows](https://editor.p5js.org/codingtrain/sketches/ch0QeTpCl)
 
@@ -171,7 +171,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary23.jpg" alt="More Moiré" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500">
 
 [More Moiré](https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4)
 
@@ -179,7 +179,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary24.png" alt="Textile" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="396">
+    margin-right: auto;" width="500" >
 
 [Textile](./genuary_24/)
 
@@ -187,7 +187,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary25.jpg" alt="Yayoi Kusama" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
 
@@ -195,7 +195,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [My kid could have made that](https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV)
 
@@ -203,7 +203,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary27.jpg" alt="Yayoi Kusama" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [In the style of Hilma Af Klint](https://editor.p5js.org/codingtrain/sketches/AW2otUixx)
 
@@ -211,7 +211,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary28.jpg" alt="Generative poetry" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="500" >
 
 [Generative poetry](https://editor.p5js.org/codingtrain/sketches/DPBwPzr7J)
 
@@ -219,7 +219,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary29.png" alt="Maximalism" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" height="312">
+    margin-right: auto;" width="500" >
 
 [Maximalism](./genuary_29/)
 
@@ -227,7 +227,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary30.png" alt="Minimalism" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="310">
+    margin-right: auto;" width="500" >
 
 [Minimalism](./genuary_30/)
 
@@ -235,6 +235,6 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="310">
+    margin-right: auto;" width="500" >
 
 [Deliberately break one of your previous images](./genuary_31/)
