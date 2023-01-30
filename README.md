@@ -51,7 +51,7 @@ All code from Genuary 2023 Speed Run
 
 <img class="img" src="assets/genuary06.jpg" alt="Steal like a Artist" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="600" height="400">
+    margin-right: auto;" width="400" height="267">
 
 [Steal Like An Artist](https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf)
 
@@ -101,7 +101,7 @@ All code from Genuary 2023 Speed Run
 
 ### January 14: Aesemic
 
-<img class="img" src="assets/genuary14.png" alt="Aesemic" style=" display: block;
+<img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
@@ -197,7 +197,7 @@ All code from Genuary 2023 Speed Run
 
 ### January 26: My kid could have made that
 
-<img class="img" src="assets/genuary26.jpg" alt="My kid could have made that" style=" display: block;
+<img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
