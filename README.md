@@ -61,7 +61,7 @@ All code from Genuary 2023 Speed2023un
 
 ### January 11: Suprematism
 
-<img class="img" src="assets/genuary06.jpg" alt="Steal like a Artist" style=" display: block;
+<img class="img" src="assets/genuary11.jpg" alt="Steal like a Artist" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="600" height="400">
 
@@ -139,7 +139,7 @@ All code from Genuary 2023 Speed2023un
 
 [More Moiré](https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4)
 
-### January 24: Textil
+### January 24: Textile
 
 [Textile](./genuary_24/)
 
@@ -157,7 +157,7 @@ All code from Genuary 2023 Speed2023un
 
 ### January 27: In the style of Hilma Af Klint
 
-<img class="img" src="assets/genuary25.jpg" alt="Yayoi Kusama" style=" display: block;
+<img class="img" src="assets/genuary27.jpg" alt="Yayoi Kusama" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
