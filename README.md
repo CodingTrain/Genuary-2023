@@ -88,7 +88,7 @@ All code from Genuary 2023 Speed Run
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/8VbPMDnOd"> <img class="img" src="assets/genuary21.jpg" alt="Persian Rug" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 21: Persian Rug</b></sub></a></td>
-      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/ch0QeTpCl"> <img class="img" src="assets/genuary22.png" alt="Shadows" style=" display: block;
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/ch0QeTpCl"> <img class="img" src="assets/genuary22.jpg" alt="Shadows" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 22: Shadows</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4"> <img class="img" src="assets/genuary23.jpg" alt="More Moiré" style=" display: block;
@@ -97,6 +97,20 @@ All code from Genuary 2023 Speed Run
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_24"> <img class="img" src="assets/genuary24.png" alt="Art Deco" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 24: Textile</b></sub></a></td>
+    </tr>
+      <tr>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ"> <img class="img" src="assets/genuary25.jpg" alt="Yayoi Kusama" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 25: Yayoi Kusama</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV"> <img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 26: My kid could have made that</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/AW2otUixx"> <img class="img" src="assets/genuary27.jpg" alt="In the style of Hilma Af Klint" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 27: In the style of Hilma Af Klint</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/DPBwPzr7J"> <img class="img" src="assets/genuary28.jpg" alt="Generative poetry" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 28: Generative poetry</b></sub></a></td>
     </tr>
      </tbody>
 </table>
@@ -108,37 +122,9 @@ All code from Genuary 2023 Speed Run
 
 
 
-### January 24: Textile
 
-<img class="img" src="assets/genuary24.png" alt="Textile" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
 
-[Textile](./genuary_24/)
 
-### January 25: Yayoi Kusama
-
-<img class="img" src="assets/genuary25.jpg" alt="Yayoi Kusama" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
-
-### January 26: My kid could have made that
-
-<img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[My kid could have made that](https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV)
-
-### January 27: In the style of Hilma Af Klint
-
-<img class="img" src="assets/genuary27.jpg" alt="Yayoi Kusama" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[In the style of Hilma Af Klint](https://editor.p5js.org/codingtrain/sketches/AW2otUixx)
 
 ### January 28: Generative poetry
 
