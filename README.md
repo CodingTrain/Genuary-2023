@@ -112,6 +112,17 @@ All code from Genuary 2023 Speed Run
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 28: Generative poetry</b></sub></a></td>
     </tr>
+     <tr>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_29"> <img class="img" src="assets/genuary29.png" alt="Maximalism" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 29: Maximalism</b></sub></a></td>
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_30"> <img class="img" src="assets/genuary30.png" alt=" Minimalism" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 30: Minimalism</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_31"> <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" /><br /><sub><b>January 31: Deliberately break one of your previous images</b></sub></a></td>
+    </tr>
      </tbody>
 </table>
 
@@ -119,41 +130,3 @@ All code from Genuary 2023 Speed Run
 <!-- prettier-ignore-end -->
 
 <!-- IMAGE-LIST:END -->
-
-
-
-
-
-
-
-### January 28: Generative poetry
-
-<img class="img" src="assets/genuary28.jpg" alt="Generative poetry" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Generative poetry](https://editor.p5js.org/codingtrain/sketches/DPBwPzr7J)
-
-### January 29: Maximalism
-
-<img class="img" src="assets/genuary29.png" alt="Maximalism" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Maximalism](./genuary_29/)
-
-### January 30: Minimalism
-
-<img class="img" src="assets/genuary30.png" alt="Minimalism" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Minimalism](./genuary_30/)
-
-### January 31: Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.
-
-<img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Deliberately break one of your previous images](./genuary_31/)
