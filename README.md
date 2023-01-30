@@ -29,7 +29,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 4: Intersections</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_05"> <img class="img" src="GIFS/genuary05.png" alt="Debug View" style=" display: block;
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_05"> <img class="img" src="assets/genuary05.png" alt="Debug View" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 5: Debug View</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/iS6UH1bLf"> <img class="img" src="assets/genuary06.jpg" alt="Steal Like an Artist" style=" display: block;
@@ -43,7 +43,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 8: Signed Distance Functions</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_09"> <img class="img" src="GIFS/genuary09.png" alt="Plants" style=" display: block;
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_09"> <img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 9: Plants</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/w8yM-TPJ1"> <img class="img" src="assets/genuary10.jpg" alt="Generative Music" style=" display: block;
