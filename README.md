@@ -9,35 +9,36 @@ All code from Genuary 2023 Speed Run
 
 ## Code
 
-### January 1: Perfect loop / Infinite loop / endless GIFs 
-
-![](GIFS/genuary01.gif)
-
-[Perfect loop / Infinite loop / endless GIFs](https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA)
-
-### January 2: Made in 10 minutes
-
-<img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style=" display: block;
+<!-- IMAGE-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="GIFS/genuary01.gif" alt="Perfect GIF look" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Made in 10 minutes](https://editor.p5js.org/codingtrain/sketches/stwbwVLDz)
-
-### January 3: Glitch Art
-
-<img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
+    margin-right: auto;" width="500" /><br /><sub><b>Perfect GIF Loop</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/stwbwVLDz"> <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Glitch Art](./genuary_03/)
-
-### January 4: Intersections
-
-<img class="img" src="assets/genuary04.png" alt="Intersections" style=" display: block;
+    margin-right: auto;" width="500" /><br /><sub><b>Made in Ten Minutes</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_03"> <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" >
+    margin-right: auto;" width="500" /><br /><sub><b>Glitch Art</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_04"> <img class="img" src="assets/genuary03.png" alt="Intersections" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="500" /><br /><sub><b>Intersections</b></sub></a></td>
+    </tr>
+        </tbody>
+</table>
 
-[Intersections](./genuary_04/)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- IMAGE-LIST:END -->
+
+
+
+
 
 ### January 5: Debug View
 
