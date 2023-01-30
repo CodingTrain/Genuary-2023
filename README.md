@@ -98,21 +98,7 @@ All code from Genuary 2023 Speed Run
 
 
 
-### January 19: Black and white
 
-<img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500">
-
-[Black and white](./genuary_19/)
-
-### January 20: Art Deco
-
-<img class="img" src="assets/genuary20.jpg" alt="Art Deco" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="500" >
-
-[Art Deco](https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P)
 
 ### January 21: Persian Rug
 
