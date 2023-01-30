@@ -9,7 +9,7 @@ All code from Genuary 2023 Speed2023un
 
 ## Code
 
-### January 1
+### January 1: Perfect loop / Infinite loop / endless GIFs
 
 ![](GIFS/genuary01.gif)
 
