@@ -61,7 +61,7 @@ All code from Genuary 2023 Speed Run
 
 ### January 8: Signed Distance Functions
 
-<img class="img" src="assets/genuary08.jpg" alt="Signed Distance Functions" style=" display: block;
+<img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="403">
 
@@ -69,7 +69,7 @@ All code from Genuary 2023 Speed Run
 
 ### January 9: Plants
 
-<img class="img" src="assets/genuary09.jpg" alt="Plants" style=" display: block;
+<img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="267">
 
@@ -85,11 +85,11 @@ All code from Genuary 2023 Speed Run
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
-     [Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
+[Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
 
 ### January 12: Tessellation
 
-<img class="img" src="assets/genuary11.jpg" alt="Tessellation" style=" display: block;
+<img class="img" src="assets/genuary12.png" alt="Tessellation" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="600" height="301">
 
