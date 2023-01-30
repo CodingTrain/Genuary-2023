@@ -24,7 +24,7 @@ All code from Genuary 2023 Speed Run
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_03"> <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>Glitch Art</b></sub></a></td>
-     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_04"> <img class="img" src="assets/genuary03.png" alt="Intersections" style=" display: block;
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_04"> <img class="img" src="assets/genuary04.png" alt="Intersections" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>Intersections</b></sub></a></td>
     </tr>
