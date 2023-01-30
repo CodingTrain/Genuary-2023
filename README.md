@@ -101,6 +101,10 @@ All code from Genuary 2023 Speed Run
 
 ### January 14: Aesemic
 
+<img class="img" src="assets/genuary14.png" alt="Aesemic" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="400">
+
 [Aesemic](https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl)
 
 ### January 15: Sine waves
@@ -192,6 +196,10 @@ All code from Genuary 2023 Speed Run
 [Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
 
 ### January 26: My kid could have made that
+
+<img class="img" src="assets/genuary26.jpg" alt="My kid could have made that" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;" width="400" height="400">
 
 [My kid could have made that](https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV)
 
