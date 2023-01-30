@@ -235,10 +235,10 @@ All code from Genuary 2023 Speed Run
 
 [Minimalism](./genuary_30/)
 
-### January 31: Deliberately break one of your previous images
+### January 31: Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.
 
 <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="310">
 
-[Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
+[Deliberately break one of your previous images](./genuary_31/)
