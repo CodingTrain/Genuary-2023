@@ -3,7 +3,7 @@ Bubble[] bubbles = new Bubble[250];
 PImage notc;
 
 void setup() {
-  size(800, 800);
+  size(400, 400);
   notc = loadImage("notc.jpg");
   for (int i = 0; i < bubbles.length; i++) {
     bubbles[i] = new Bubble();
