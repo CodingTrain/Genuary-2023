@@ -111,19 +111,11 @@ All code from Genuary 2023 Speed Run
 
 ![](GIFS/genuary15.gif)
 
-<img class="img" src="assets/genuary15.jpg" alt="Sine Waves" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" height="400">
-
 [Sine waves](https://editor.p5js.org/codingtrain/sketches/LaYMQFPld)
 
 ### January 16: Reflection of a reflection
 
 ![](GIFS/genuary16.gif)
-
-<img class="img" src="assets/genuary16.jpg" alt="Reflection of a reflection" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" height="400">
 
 [Reflection of a reflection](https://editor.p5js.org/codingtrain/sketches/1C1itEl_t)
 
