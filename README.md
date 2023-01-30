@@ -63,7 +63,7 @@ All code from Genuary 2023 Speed2023un
 
 <img class="img" src="assets/genuary11.jpg" alt="Steal like a Artist" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="600" height="400">
+    margin-right: auto;" width="400" height="400">
 
      [Suprematism](https://editor.p5js.org/codingtrain/sketches/86-bIBI5m)
 
