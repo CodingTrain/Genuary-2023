@@ -101,7 +101,7 @@ All code from Genuary 2023 Speed2023run
 
 ### January 14: Aesemic
 
-[Aesemic]()
+[Aesemic](https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl)
 
 ### January 15: Sine waves
 
@@ -189,7 +189,7 @@ All code from Genuary 2023 Speed2023run
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
- [Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
+[Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
 
 ### January 26: My kid could have made that
 
@@ -233,4 +233,4 @@ All code from Genuary 2023 Speed2023run
     margin-left: auto;
     margin-right: auto;" width="400" height="310">
 
- [Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
+[Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
