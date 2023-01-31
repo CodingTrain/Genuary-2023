@@ -34,7 +34,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 7<br/> Sample a color palette</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_08"> <img class="img" src="assets/genuary08.png" alt="Signed Distance Functions" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 8<br/> Signed Distance Functions</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 8<br/> SDFs</b></sub></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_09"> <img class="img" src="assets/genuary09.png" alt="Plants" style=" display: block;
@@ -53,7 +53,7 @@ All code from Genuary 2023 Speed Run
      <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_13"> <img class="img" src="" alt="Something you’ve always wanted to learn" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 13<br/> Something you’ve always wanted to learn</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 13<br/> A thing you’ve wanted to learn</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl"> <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 14<br/> Aesemic</b></sub></a></td>
@@ -67,7 +67,7 @@ All code from Genuary 2023 Speed Run
      <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_17"> <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 17<br/> A grid inside a grid inside a grid</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 17<br/>Grid in a grid in a grid</b></sub></a></td>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 18<br/> Definitely not a grid</b></sub></a></td>
@@ -109,7 +109,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 30<br/> Minimalism</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_31"> <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 31<br/> Break one of your previous images</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 31<br/> Break a previous image</b></sub></a></td>
     </tr>
      </tbody>
 </table>
