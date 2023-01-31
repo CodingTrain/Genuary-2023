@@ -88,9 +88,7 @@ All code from Genuary 2023 Speed Run
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/tSnJ9QcP4"> <img class="img" src="assets/genuary23.jpg" alt="More Moiré" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 23: More Moiré</b></sub></a></td>
-     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_24"> <img class="img" src="assets/genuary24.png" alt="Art Deco" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 24: Textile</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_24"> <img class="img" src="assets/genuary24.png" alt="Art Deco" style="vertical-align:top;" width="400" /><br /><sub><b>January 24: Textile</b></sub></a></td>
     </tr>
       <tr>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ"> <img class="img" src="assets/genuary25.jpg" alt="Yayoi Kusama" style=" display: block;
