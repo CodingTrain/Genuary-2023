@@ -71,12 +71,8 @@ All code from Genuary 2023 Speed Run
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 18: Definitely not a grid</b></sub></a></td>
-     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_19"> <img class="img" src="assets/genuary19.png" alt="Black and white" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 19: Black and white</b></sub></a></td>
-     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P"> <img class="img" src="assets/genuary20.jpg" alt="Art Deco" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 20: Art Deco</b></sub></a></td>
+     <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_19"> <img class="img" src="assets/genuary19.png" alt="Black and white" style="vertical-align:top;" width="400" /><br /><sub><b>January 19: Black and white</b></sub></a></td>
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VqsxfNW_P"> <img class="img" src="assets/genuary20.jpg" alt="Art Deco" style="vertical-align:top;" width="400" /><br /><sub><b>January 20: Art Deco</b></sub></a></td>
     </tr>
      <tr>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/8VbPMDnOd"> <img class="img" src="assets/genuary21.jpg" alt="Persian Rug" style=" display: block;
