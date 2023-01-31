@@ -15,10 +15,8 @@ All code from Genuary 2023 Speed Run
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="GIFS/genuary01.gif" alt="Perfect GIF look" style="style="border:5px solid black;vertical-align:top" width="400" /><br /><sub><b>January 1: Perfect GIF Loop</b></sub></a></td>
-      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/stwbwVLDz"> <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 2: Made in Ten Minutes</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="GIFS/genuary01.gif" alt="Perfect GIF look" style="border:5px solid black; vertical-align:top" width="400" /><br /><sub><b>January 1: Perfect GIF Loop</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/stwbwVLDz"> <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style="border:5px solid black; vertical-align:top" width="400" /><br /><sub><b>January 2: Made in Ten Minutes</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_03"> <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 3: Glitch Art</b></sub></a></td>
