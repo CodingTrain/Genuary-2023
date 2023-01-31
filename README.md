@@ -62,7 +62,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 15<br/> Sine waves</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="GIFS/genuary16.gif" alt="Reflection of a reflection" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 16<br/> Reflection of a reflection</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 16<br/> Reflection of reflection</b></sub></a></td>
     </tr>
      <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_17"> <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
@@ -92,10 +92,10 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 25<br/> Yayoi Kusama</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV"> <img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 26<br/> My kid could have made that</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 26<br/> A kid could have made that</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/AW2otUixx"> <img class="img" src="assets/genuary27.jpg" alt="In the style of Hilma Af Klint" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 27<br/> In the style of Hilma Af Klint</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 27<br/> Style of Hilma Af Klint</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/DPBwPzr7J"> <img class="img" src="assets/genuary28.jpg" alt="Generative poetry" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 28<br/> Generative poetry</b></sub></a></td>
@@ -109,7 +109,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 30<br/> Minimalism</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_31"> <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 31<br/> Break a previous image</b></sub></a></td>
+    margin-right: auto;" width="400" /><br /><sub><b>January 31<br/> Break an image</b></sub></a></td>
     </tr>
      </tbody>
 </table>
