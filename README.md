@@ -92,7 +92,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="500" /><br /><sub><b>January 25<br/> Yayoi Kusama</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6Wwzkc7EV"> <img class="img" src="assets/genuary26.png" alt="My kid could have made that" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" /><br /><sub><b>January 26<br/>A kid could have made it</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 26<br/>My kid could have made it</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/AW2otUixx"> <img class="img" src="assets/genuary27.jpg" alt="In the style of Hilma Af Klint" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 27<br/> Style of Hilma Af Klint</b></sub></a></td>
