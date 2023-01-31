@@ -109,7 +109,7 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="500" /><br /><sub><b>January 30<br/> Minimalism</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_31"> <img class="img" src="assets/genuary31.png" alt="Deliberately break one of your previous images" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" /><br /><sub><b>January 31<br/> Break an image</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 31<br/> Break a previous image</b></sub></a></td>
     </tr>
      </tbody>
 </table>
