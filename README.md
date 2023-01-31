@@ -121,7 +121,7 @@ All code from Genuary 2023 Speed Run
 
 ## Animations
 
-![](GITS/genuary01.gif)
-![](GITS/genuary15.gif)
-![](GITS/genuary16.gif)
+![](GIFS/genuary01.gif)
+![](GIFS/genuary15.gif)
+![](GIFS/genuary16.gif)
 
