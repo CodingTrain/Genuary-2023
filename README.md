@@ -51,9 +51,9 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="400" /><br /><sub><b>January 12<br/> Tessellation</b></sub></a></td>
     </tr>
      <tr>
-      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_13"> <img class="img" src="" alt="Something you’ve always wanted to learn" style=" display: block;
+      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_13"> <img class="img" src="assets/genuary13.png" alt="Something you’ve always wanted to learn" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" /><br /><sub><b>January 13<br/> A thing you’ve wanted to learn</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 13<br/> A thing you’ve wanted to learn</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl"> <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" /><br /><sub><b>January 14<br/> Aesemic</b></sub></a></td>
