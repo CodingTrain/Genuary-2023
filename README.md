@@ -53,7 +53,7 @@ All code from Genuary 2023 Speed Run
      <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_13"> <img class="img" src="assets/genuary13.png" alt="Something you’ve always wanted to learn" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" /><br /><sub><b>January 13<br/>Somehing you’ve wanted to learn</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 13<br/>Somehing you’ve always wanted to learn</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl"> <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 14<br/> Aesemic</b></sub></a></td>
@@ -62,12 +62,12 @@ All code from Genuary 2023 Speed Run
     margin-right: auto;" width="500" /><br /><sub><b>January 15<br/> Sine waves</b></sub></a></td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="GIFS/genuary16.gif" alt="Reflection of a reflection" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" /><br /><sub><b>January 16<br/> A reflection of reflection</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 16<br/> A reflection of a reflection</b></sub></a></td>
     </tr>
      <tr>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_17"> <img class="img" src="assets/genuary17.png" alt="A grid inside a grid inside a grid" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="500" /><br /><sub><b>January 17<br/>Grid in a grid in a grid</b></sub></a></td>
+    margin-right: auto;" width="500" /><br /><sub><b>January 17<br/>A grid in a grid in a grid</b></sub></a></td>
       <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_18"> <img class="img" src="assets/genuary18.png" alt="Definitely not a grid" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 18<br/> Definitely not a grid</b></sub></a></td>
