@@ -1,13 +1,13 @@
-# Genuary-2023
+# Genuary 2023
 
 All code from Genuary 2023 Speed Run
 
-## Links
+## 🔗 Links
 
 - [Live Stream on YouTube](https://www.youtube.com/watch?v=QyGG15J9bAc)
 - [Genuary](https://genuary.art)
 
-## Code
+## 🌄 Gallery
 
 <!-- IMAGE-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -124,4 +124,3 @@ All code from Genuary 2023 Speed Run
 ![](GIFS/genuary01.gif)
 ![](GIFS/genuary15.gif)
 ![](GIFS/genuary16.gif)
-
