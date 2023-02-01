@@ -15,7 +15,7 @@ All code from Genuary 2023 Speed Run
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="GIFS/genuary01.gif" alt="Perfect GIF look" style="vertical-align:top;" width="500" /><br /><sub><b>January 1<br/>Perfect GIF Loop</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA"> <img class="img" src="assets/genuary01.jpg" alt="Perfect GIF look" style="vertical-align:top;" width="500" /><br /><sub><b>January 1<br/>Perfect GIF Loop</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/stwbwVLDz"> <img class="img" src="assets/genuary02.png" alt="Made in 10 minutes" style="vertical-align:top;" width="500" /><br /><sub><b>January 2<br/> Made in Ten Minutes</b></sub></a></td>
      <td align="center"><a href="https://github.com/CodingTrain/Genuary-2023/tree/main/genuary_03"> <img class="img" src="assets/genuary03.png" alt="Glitch Art" style=" display: block;
     margin-left: auto;
@@ -57,10 +57,10 @@ All code from Genuary 2023 Speed Run
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/KiKwa2Hjl"> <img class="img" src="assets/genuary14.jpg" alt="Aesemic" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 14<br/> Aesemic</b></sub></a></td>
-     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="GIFS/genuary15.gif" alt="Sine waves" style=" display: block;
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/86-bIBI5m"> <img class="img" src="assets/genuary15.jpg" alt="Sine waves" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 15<br/> Sine waves</b></sub></a></td>
-     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="GIFS/genuary16.gif" alt="Reflection of a reflection" style=" display: block;
+     <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1C1itEl_t"> <img class="img" src="assets/genuary16.jpg" alt="Reflection of a reflection" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 16<br/> A reflection of a reflection</b></sub></a></td>
     </tr>
@@ -118,3 +118,10 @@ All code from Genuary 2023 Speed Run
 <!-- prettier-ignore-end -->
 
 <!-- IMAGE-LIST:END -->
+
+## Animations
+
+![](GIFS/genuary01.gif)
+![](GIFS/genuary15.gif)
+![](GIFS/genuary16.gif)
+
